@@ -1,0 +1,13 @@
+{
+	5carddraw: {
+		name: 5 Card Draw Poker
+		deck: poker
+		decks: 1
+		deal: {}
+		hand: {}
+		piles: {
+			draw: {}
+			discard: {}
+		}
+	}
+}

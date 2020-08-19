@@ -1,0 +1,793 @@
+{
+	poker: {
+		name: "Poker Cards"
+		backs: {
+			card: [
+				backs/blue_coarse_lines_tl_br.svg
+				backs/blue_coarse_lines_tr_bl.svg
+				backs/blue_fine_lines_tl_br.svg
+				backs/blue_tesselation.svg
+				backs/blue_twist.svg
+				backs/red_checker_outline.svg
+				backs/red_coarse_lines_tl_br.svg
+				backs/red_coarse_lines_tr_bl.svg
+				backs/red_fine_lines_tl_br.svg
+				backs/red_flowers.svg
+				backs/red_tesselation.svg
+			]
+		}
+		cards: [
+			{
+				front: fronts/da.svg
+				type: card
+				suit: diamonds
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/d2.svg
+				type: card
+				suit: diamonds
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/d3.svg
+				type: card
+				suit: diamonds
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/d4.svg
+				type: card
+				suit: diamonds
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/d5.svg
+				type: card
+				suit: diamonds
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/d6.svg
+				type: card
+				suit: diamonds
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/d7.svg
+				type: card
+				suit: diamonds
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/d8.svg
+				type: card
+				suit: diamonds
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/d9.svg
+				type: card
+				suit: diamonds
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/d10.svg
+				type: card
+				suit: diamonds
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/dj.svg
+				type: card
+				suit: diamonds
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/dq.svg
+				type: card
+				suit: diamonds
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/dk.svg
+				type: card
+				suit: diamonds
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/ca.svg
+				type: card
+				suit: clubs
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/c2.svg
+				type: card
+				suit: clubs
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/c3.svg
+				type: card
+				suit: clubs
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/c4.svg
+				type: card
+				suit: clubs
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/c5.svg
+				type: card
+				suit: clubs
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/c6.svg
+				type: card
+				suit: clubs
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/c7.svg
+				type: card
+				suit: clubs
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/c8.svg
+				type: card
+				suit: clubs
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/c9.svg
+				type: card
+				suit: clubs
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/c10.svg
+				type: card
+				suit: clubs
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/cj.svg
+				type: card
+				suit: clubs
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/cq.svg
+				type: card
+				suit: clubs
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/ck.svg
+				type: card
+				suit: clubs
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/ha.svg
+				type: card
+				suit: hearts
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/h2.svg
+				type: card
+				suit: hearts
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/h3.svg
+				type: card
+				suit: hearts
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/h4.svg
+				type: card
+				suit: hearts
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/h5.svg
+				type: card
+				suit: hearts
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/h6.svg
+				type: card
+				suit: hearts
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/h7.svg
+				type: card
+				suit: hearts
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/h8.svg
+				type: card
+				suit: hearts
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/h9.svg
+				type: card
+				suit: hearts
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/h10.svg
+				type: card
+				suit: hearts
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/hj.svg
+				type: card
+				suit: hearts
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/hq.svg
+				type: card
+				suit: hearts
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/hk.svg
+				type: card
+				suit: hearts
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/sa.svg
+				type: card
+				suit: spades
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/s2.svg
+				type: card
+				suit: spades
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/s3.svg
+				type: card
+				suit: spades
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/s4.svg
+				type: card
+				suit: spades
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/s5.svg
+				type: card
+				suit: spades
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/s6.svg
+				type: card
+				suit: spades
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/s7.svg
+				type: card
+				suit: spades
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/s8.svg
+				type: card
+				suit: spades
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/s9.svg
+				type: card
+				suit: spades
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/s10.svg
+				type: card
+				suit: spades
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/sj.svg
+				type: card
+				suit: spades
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/sq.svg
+				type: card
+				suit: spades
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/sk.svg
+				type: card
+				suit: spades
+				title: king
+				value: 13
+			}
+		]
+	}
+
+	poker+jokers: {
+		name: "Poker Cards with Jokers"
+		backs: {
+			card: [
+				blue_coarse_lines_tl_br.svg
+				blue_coarse_lines_tr_bl.svg
+				blue_fine_lines_tl_br.svg
+				blue_tesselation.svg
+				blue_twist.svg
+				red_checker_outline.svg
+				red_coarse_lines_tl_br.svg
+				red_coarse_lines_tr_bl.svg
+				red_fine_lines_tl_br.svg
+				red_flowers.svg
+				red_tesselation.svg
+			]
+		}
+		cards: [
+			{
+				front: fronts/da.svg
+				type: card
+				suit: diamonds
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/d2.svg
+				type: card
+				suit: diamonds
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/d3.svg
+				type: card
+				suit: diamonds
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/d4.svg
+				type: card
+				suit: diamonds
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/d5.svg
+				type: card
+				suit: diamonds
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/d6.svg
+				type: card
+				suit: diamonds
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/d7.svg
+				type: card
+				suit: diamonds
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/d8.svg
+				type: card
+				suit: diamonds
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/d9.svg
+				type: card
+				suit: diamonds
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/d10.svg
+				type: card
+				suit: diamonds
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/dj.svg
+				type: card
+				suit: diamonds
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/dq.svg
+				type: card
+				suit: diamonds
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/dk.svg
+				type: card
+				suit: diamonds
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/ca.svg
+				type: card
+				suit: clubs
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/c2.svg
+				type: card
+				suit: clubs
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/c3.svg
+				type: card
+				suit: clubs
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/c4.svg
+				type: card
+				suit: clubs
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/c5.svg
+				type: card
+				suit: clubs
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/c6.svg
+				type: card
+				suit: clubs
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/c7.svg
+				type: card
+				suit: clubs
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/c8.svg
+				type: card
+				suit: clubs
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/c9.svg
+				type: card
+				suit: clubs
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/c10.svg
+				type: card
+				suit: clubs
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/cj.svg
+				type: card
+				suit: clubs
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/cq.svg
+				type: card
+				suit: clubs
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/ck.svg
+				type: card
+				suit: clubs
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/ha.svg
+				type: card
+				suit: hearts
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/h2.svg
+				type: card
+				suit: hearts
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/h3.svg
+				type: card
+				suit: hearts
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/h4.svg
+				type: card
+				suit: hearts
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/h5.svg
+				type: card
+				suit: hearts
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/h6.svg
+				type: card
+				suit: hearts
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/h7.svg
+				type: card
+				suit: hearts
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/h8.svg
+				type: card
+				suit: hearts
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/h9.svg
+				type: card
+				suit: hearts
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/h10.svg
+				type: card
+				suit: hearts
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/hj.svg
+				type: card
+				suit: hearts
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/hq.svg
+				type: card
+				suit: hearts
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/hk.svg
+				type: card
+				suit: hearts
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/sa.svg
+				type: card
+				suit: spades
+				title: ace
+				value: 1
+			}
+			{
+				front: fronts/s2.svg
+				type: card
+				suit: spades
+				title: 2
+				value: 2
+			}
+			{
+				front: fronts/s3.svg
+				type: card
+				suit: spades
+				title: 3
+				value: 3
+			}
+			{
+				front: fronts/s4.svg
+				type: card
+				suit: spades
+				title: 4
+				value: 4
+			}
+			{
+				front: fronts/s5.svg
+				type: card
+				suit: spades
+				title: 5
+				value: 5
+			}
+			{
+				front: fronts/s6.svg
+				type: card
+				suit: spades
+				title: 6
+				value: 6
+			}
+			{
+				front: fronts/s7.svg
+				type: card
+				suit: spades
+				title: 7
+				value: 7
+			}
+			{
+				front: fronts/s8.svg
+				type: card
+				suit: spades
+				title: 8
+				value: 8
+			}
+			{
+				front: fronts/s9.svg
+				type: card
+				suit: spades
+				title: 9
+				value: 9
+			}
+			{
+				front: fronts/s10.svg
+				type: card
+				suit: spades
+				title: 10
+				value: 10
+			}
+			{
+				front: fronts/sj.svg
+				type: card
+				suit: spades
+				title: jack
+				value: 11
+			}
+			{
+				front: fronts/sq.svg
+				type: card
+				suit: spades
+				title: queen
+				value: 12
+			}
+			{
+				front: fronts/sk.svg
+				type: card
+				suit: spades
+				title: king
+				value: 13
+			}
+
+			{
+				front: fronts/j2.svg
+				type: card
+				suit: joker
+				title: joker
+				value: -1
+			}
+			{
+				front: fronts/j3.svg
+				type: card
+				suit: joker
+				title: joker
+				value: -2
+			}
+		]
+	}
+
+}

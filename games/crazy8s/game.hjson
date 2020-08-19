@@ -1,0 +1,13 @@
+{
+	crazy8s: {
+		name: Crazy 8's
+		deck: poker
+		decks: 1
+		deal: {}
+		hand: {}
+		piles: {
+			draw: {}
+			discard: {}
+		}
+	}
+}

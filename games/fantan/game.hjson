@@ -1,0 +1,13 @@
+{
+	fantan: {
+		name: Fantan
+		deck: poker
+		decks: 1
+		deal: {}
+		hand: {}
+		piles: {
+			draw: {}
+			discard: {}
+		}
+	}
+}

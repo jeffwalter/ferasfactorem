@@ -1,0 +1,24 @@
+{
+	rummy: {
+		name: Rummy
+		deck: poker
+		decks: 1
+		deal: {}
+		hand: {}
+		piles: {
+			draw: {}
+			discard: {}
+		}
+	}
+	ginrummy: {
+		name: Gin Rummy
+		deck: poker
+		decks: 1
+		deal: {}
+		hand: {}
+		piles: {
+			draw: {}
+			discard: {}
+		}
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"name": "Feras-Factorem",
+	"version": "0.0.1",
+	"description": "A multi-player card game engine that relies on players for gameplay rules",
+	"license": "MIT",
+	"author": {
+		"name": "Jeff Walter",
+		"email": "jeff@walter.fm",
+		"url": "https://jeff.walter.fm"
+	},
+	"contributors": [
+		{
+			"name": "",
+			"email": "",
+			"url": "https://"
+		}
+	],
+	"icon": ".svg",
+	"keywords": [
+		"game-engine",
+		"card-game",
+		"cards"
+	],
+	"homepage": "https://github.com/jeffwalter/feras-factorem#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jeffwalter/feras-factorem.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jeffwalter/feras-factorem/issues"
+	},
+	"main": "app.js",
+	"scripts": {
+		"build": "pkg...",
+		"dev": "NODE_ENV=dev node app.js -c config/settings.dev.hjson -a config/auth.dev.hjson",
+		"lint": "node_modules/eslint/bin/eslint.js .",
+		"lintfix": "node_modules/eslint/bin/eslint.js --fix .",
+		"start": "NODE_ENV=prod node app.js -c config/settings.dev.hjson -a config/auth.dev.hjson",
+		"test": "npm run lint && npm run unit",
+		"unit": "NODE_ENV=test node_modules/mocha/bin/mocha test/**/*.js"
+	},
+	"deprecated": false,
+	"private": false,
+	"bundleDependencies": true,
+	"dependencies": {
+		"hjson": "3.*",
+		"lodash": "4.*",
+		"module-alias": "2.*",
+		"express": "*",
+		"body-parser": "*",
+		"socket.io": "*"
+	},
+	"devDependencies": {
+		"chai": "4.*",
+		"eslint": "7.*",
+		"husky": "4.*",
+		"mocha": "^8.1.1",
+		"pkg": "4.*"
+	},
+	"engines": {
+		"node": ">= 10.0.0",
+		"npm": ">= 6.0.0"
+	},
+	"_moduleAliases": {
+		"@libs": "libs"
+	}
+}

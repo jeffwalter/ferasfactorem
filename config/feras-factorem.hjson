@@ -1,0 +1,19 @@
+{
+	listen: {
+		address: 0.0.0.0
+		port: 80
+	}
+	limits: {
+		games: 100
+		players: {
+			per-game: 10
+			total: 1000
+		}
+	}
+	decks: [
+		poker
+	]
+	games: [
+		fantan
+	]
+}
