@@ -6,7 +6,7 @@ reported to the community leaders responsible for enforcement at
 
 The following people have access to the above email address:
 
-- Jeff Walter <jwalter@ferasfactorem.dev> [GitHub](https://github.com/ferasfactoremren) [Twitter](https://twitter.com/theregexpert)
+- Jeff Walter <jwalter@ferasfactorem.dev> [GitHub](https://github.com/jeffwwalter/ferasfactorem) [Twitter](https://twitter.com/theregexpert)
 
 In the event that your report includes one of the people mentioned above please
 feel free to reach out to one of the other people listed instead.

@@ -1,4 +1,4 @@
-# feras-factorem
+# ferasfactorem
 [![Build Status][travis-image]][travis-url]
 
 A multi-player card game engine that relies on players for gameplay rules
@@ -6,8 +6,8 @@ A multi-player card game engine that relies on players for gameplay rules
 ## Install
 
 ```bash
-git clone https://github.com/jeffwalter/feras-factorem
-cd feras-factorem
+git clone https://github.com/jeffwalter/ferasfactorem
+cd ferasfactorem
 git checkout stable
 npm install
 ```
@@ -15,10 +15,10 @@ npm install
 or
 
 ```bash
-wget https://github.com/jeffwalter/feras-factorem/archive/stable.zip
+wget https://github.com/jeffwalter/ferasfactorem/archive/stable.zip
 unzip stable.zip
-mv feras-factorem-stable
-cd feras-factorem-stable
+mv ferasfactorem-stable
+cd ferasfactorem-stable
 npm install
 ```
 

@@ -1,5 +1,5 @@
 {
-	"name": "Feras-Factorem",
+	"name": "FerasFactorem",
 	"version": "0.0.1",
 	"description": "A multi-player card game engine that relies on players for gameplay rules",
 	"license": "MIT",
@@ -21,13 +21,13 @@
 		"card-game",
 		"cards"
 	],
-	"homepage": "https://github.com/jeffwalter/feras-factorem#readme",
+	"homepage": "https://github.com/jeffwalter/ferasfactorem#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jeffwalter/feras-factorem.git"
+		"url": "git+https://github.com/jeffwalter/ferasfactorem.git"
 	},
 	"bugs": {
-		"url": "https://github.com/jeffwalter/feras-factorem/issues"
+		"url": "https://github.com/jeffwalter/ferasfactorem/issues"
 	},
 	"main": "app.js",
 	"scripts": {

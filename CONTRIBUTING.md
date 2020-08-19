@@ -1,14 +1,14 @@
 # Contributing
 
-We can use help in a bunch of areas and any help is appreciated. Our [GitHub issues](https://github.com/jeffwalter/feras-factorem/issues) serve as a place for any discussion, whether it's bug reports, questions, project direction etc. As the project grows this policy may change.
+We can use help in a bunch of areas and any help is appreciated. Our [GitHub issues](https://github.com/jeffwalter/ferasfactorem/issues) serve as a place for any discussion, whether it's bug reports, questions, project direction etc. As the project grows this policy may change.
 
 ## Getting Started
 
 Getting started with developing Rome takes only two commands. You will only need Node v12 or above.
 
 ```bash
-git clone https://github.com/jeffwalter/feras-factorem
-cd feras-factorem
+git clone https://github.com/jeffwalter/ferasfactorem
+cd ferasfactorem
 ```
 
 ### User files
@@ -19,7 +19,7 @@ You can find more information on this process [here](https://help.github.com/en/
 
 ## Website
 
-The [feras-factorem website](https://ferasfactorem.dev/) is built with [Eleventy](https://www.11ty.dev/). To start a development server you can run the following commands:
+The [ferasfactorem website](https://ferasfactorem.dev/) is built with [Eleventy](https://www.11ty.dev/). To start a development server you can run the following commands:
 
 ```bash
 cd website
@@ -29,7 +29,7 @@ npm start
 
 ## Checks
 
-When working on feras-factorem you will want to run the tests and linter to validate your changes. You can do both of these with a single command:
+When working on ferasfactorem you will want to run the tests and linter to validate your changes. You can do both of these with a single command:
 
 ```bash
 npm test
