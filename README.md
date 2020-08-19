@@ -34,5 +34,5 @@ _In progess_
 
 None
 
-[travis-image]: https://img.shields.io/travis/jeffwalter/feras-factorem/master.svg
-[travis-url]: https://travis-ci.org/jeffwalter/feras-factorem
+[travis-image]: https://img.shields.io/travis/jeffwalter/ferasfactorem/master.svg
+[travis-url]: https://travis-ci.org/jeffwalter/ferasfactorem
